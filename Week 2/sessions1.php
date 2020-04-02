@@ -1,5 +1,5 @@
 <?php
-//Christopher Thurn, 1/15/2020, Session File One
+//Student, 1/15/2020, Session File One
 //Declare and initialize the local variable $user.
 $user = 'Not Logged In';
 
