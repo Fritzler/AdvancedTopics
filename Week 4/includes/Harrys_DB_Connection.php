@@ -3,17 +3,17 @@
 	// All the info is on your MySql handout provided to you by the instructor.
 	
 	//The xxx is your connection data.
-	$db_host = "lsrv-web-07.clarkstate.edu";
+	$db_host = "*****";
 	
 	// Your username
-	$db_user = "thurnc1335";
+	$db_user = "*****";
 	
 	// Your password
-	$db_pass = "QFqJ0RvpS6efy8kr";
+	$db_pass = "*****";
 	
 	// Database Name
 	$db_dbname = "HARRYS";
 	
 	// Database Port
-	$db_port = "9572";
+	$db_port = "*****";
 ?>
